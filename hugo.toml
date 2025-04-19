@@ -101,15 +101,15 @@ canonifyURLs = false
       [menu]
 
         [[menu.main]]
-          identifier = "tutos"
-          name = "Tutos"
-          url = "/tutos/"
+          identifier = "mydoc"
+          name = "DocQuest"
+          url = "/docquest/"
           weight = 1
 
         [[menu.main]]
-          identifier = "mydoc"
-          name = "DocQuest"
-          url = "/mydoc/"
+          identifier = "tutos"
+          name = "Tutos"
+          url = "/tutos/"
           weight = 2
 
         [[menu.main]]
