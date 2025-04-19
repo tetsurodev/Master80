@@ -1,0 +1,39 @@
+# --- HUGO ---
+
+# Le dossier généré automatiquement par la commande `hugo`
+public/
+
+# Les fichiers de configuration de Hugo selon l'OS
+.DS_Store
+Thumbs.db
+
+# --- NETLIFY ---
+
+# Si jamais Netlify crée un dossier temporaire localement
+.netlify/
+
+# --- WINDOWS ---
+
+# Fichiers systèmes inutiles
+desktop.ini
+
+# --- ÉDITEURS ---
+
+# VS Code
+.vscode/
+
+# Fichiers de backup d'éditeurs
+*.bak
+*.tmp
+*~
+
+# --- GIT ---
+
+# Ignorer les fichiers de merge
+*.orig
+
+# --- AUTRES (facultatif) ---
+
+# Dossier de test ou de build local si j'en ajoutes
+build/
+dist/
