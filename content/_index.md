@@ -16,10 +16,10 @@ _Samedi 19 avril 2025 à 01:47_
 Aujourd'hui je n'ai pas travaillé sur le Z80 car je me suis occupé du site. J'ai installé le thème, il me plait, j'espère que vous aussi.
 
 ```Z80
-    ld hl,message
+    ld hl, message
     /.../
 message:
-    db "Bonne nuit"
+    db "Bonne nuit", 0
 ```
 
 ---
