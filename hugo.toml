@@ -103,7 +103,7 @@ canonifyURLs = false
         [[menu.main]]
           identifier = "mydoc"
           name = "DocQuest"
-          url = "/docquest/"
+          url = "/mydoc/"
           weight = 1
 
         [[menu.main]]
