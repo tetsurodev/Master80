@@ -101,34 +101,34 @@ canonifyURLs = false
       [menu]
 
         [[menu.main]]
+          identifier = "tutos"
+          name = "Tutos"
+          url = "/tutos/"
+          weight = 1
+
+        [[menu.main]]
           identifier = "docquest"
           name = "DocQuest"
           url = "/docquest/"
           weight = 2
 
         [[menu.main]]
-          identifier = "tutos"
-          name = "Tutos"
-          url = "/tutos/"
-          weight = 3
-
-        [[menu.main]]
           identifier = "protos"
           name = "Protos"
           url = "/protos/"
-          weight = 4
+          weight = 3
 
         [[menu.main]]
           identifier = "docrefs"
           name = "DocRefs"
           url = "/docrefs/"
-          weight = 5
+          weight = 4
 
         [[menu.main]]
           identifier = "follow"
           name = "Follow"
           url = "/follow/"
-          weight = 6
+          weight = 5
 
 #[module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
